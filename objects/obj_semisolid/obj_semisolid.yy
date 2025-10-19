@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_solid",
+  "%Name":"obj_semisolid",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_solid",
+  "name":"obj_semisolid",
   "overriddenProperties":[],
   "parent":{
     "name":"Objets",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_square_green",
-    "path":"sprites/spr_square_green/spr_square_green.yy",
+    "name":"spr_square_orange",
+    "path":"sprites/spr_square_orange/spr_square_orange.yy",
   },
   "spriteMaskId":null,
   "visible":true,

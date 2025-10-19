@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"MetroidvaniaGameMaker",
+  "%Name":"MyMetroidvaniaGameMaker",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -33,13 +33,16 @@
   "MetaData":{
     "IDEVersion":"2024.13.1.193",
   },
-  "name":"MetroidvaniaGameMaker",
+  "name":"MyMetroidvaniaGameMaker",
   "resources":[
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_semisolid_move","path":"objects/obj_semisolid_move/obj_semisolid_move.yy",},},
+    {"id":{"name":"obj_semisolid","path":"objects/obj_semisolid/obj_semisolid.yy",},},
     {"id":{"name":"obj_slope_l","path":"objects/obj_slope_l/obj_slope_l.yy",},},
     {"id":{"name":"obj_slope_parent","path":"objects/obj_slope_parent/obj_slope_parent.yy",},},
     {"id":{"name":"obj_slope_r","path":"objects/obj_slope_r/obj_slope_r.yy",},},
+    {"id":{"name":"obj_solid_move","path":"objects/obj_solid_move/obj_solid_move.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"rm_debug","path":"rooms/rm_debug/rm_debug.yy",},},
     {"id":{"name":"src_controllerSetup","path":"scripts/src_controllerSetup/src_controllerSetup.yy",},},
@@ -47,6 +50,7 @@
     {"id":{"name":"spr_slope_l","path":"sprites/spr_slope_l/spr_slope_l.yy",},},
     {"id":{"name":"spr_slope_r","path":"sprites/spr_slope_r/spr_slope_r.yy",},},
     {"id":{"name":"spr_square_green","path":"sprites/spr_square_green/spr_square_green.yy",},},
+    {"id":{"name":"spr_square_orange","path":"sprites/spr_square_orange/spr_square_orange.yy",},},
     {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},},
   ],
   "resourceType":"GMProject",

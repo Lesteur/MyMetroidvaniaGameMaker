@@ -1,17 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_solid",
+  "%Name":"obj_semisolid_move",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_solid",
+  "name":"obj_semisolid_move",
   "overriddenProperties":[],
   "parent":{
     "name":"Objets",
     "path":"folders/Objets.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_semisolid",
+    "path":"objects/obj_semisolid/obj_semisolid.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_square_green",
-    "path":"sprites/spr_square_green/spr_square_green.yy",
+    "name":"spr_square_orange",
+    "path":"sprites/spr_square_orange/spr_square_orange.yy",
   },
   "spriteMaskId":null,
   "visible":true,

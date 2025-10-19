@@ -10,4 +10,5 @@ function controllerSetup()
     jumpKey = 0;
     jumpKeyPressed = 0;
 	runKey = 0;
+	downKey = 0;
 }
