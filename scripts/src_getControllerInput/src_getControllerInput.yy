@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_getControllerInput",
+  "%Name":"src_GetControllerInput",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_getControllerInput",
+  "name":"src_GetControllerInput",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Physics",
+    "path":"folders/Scripts/Physics.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

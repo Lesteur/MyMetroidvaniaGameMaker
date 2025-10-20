@@ -1,4 +1,4 @@
-function getControllerInput()
+function GetControllerInput()
 {
     // Directions inputs
     rightKey = keyboard_check(vk_right) + keyboard_check(ord("D")) + gamepad_button_check(0, gp_padr);

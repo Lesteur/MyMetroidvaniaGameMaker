@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_HandleMovePlatforms",
+  "%Name":"src_HandlePlayerJump",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_HandleMovePlatforms",
+  "name":"src_HandlePlayerJump",
   "parent":{
     "name":"Physics",
     "path":"folders/Scripts/Physics.yy",

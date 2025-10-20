@@ -1,4 +1,4 @@
-function controllerSetup()
+function ControllerSetup()
 {
     jumpBufferTime = 30;
 

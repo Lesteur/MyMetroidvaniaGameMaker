@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_HandleMovePlatforms",
+  "%Name":"src_CheckForSemisolidPlatform",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_HandleMovePlatforms",
+  "name":"src_CheckForSemisolidPlatform",
   "parent":{
     "name":"Physics",
     "path":"folders/Scripts/Physics.yy",
