@@ -84,12 +84,19 @@ jumpSpeed[1] = -3.10;
 // Hang time
 coyoteHangFrames = 2;
 coyoteHangTimer = 0;
+
 // Jump buffer time
 coyoteJumpFrames = 6;
 coyoteJumpTimer = 0;
 
 // Moving platforms
 myFloorPlat = noone;
+earlyMovePlatXSpeed = false;
 forgetSemiSolid = noone;
+ignoreSemiSolid = false;
 movePlatXSpeed = 0;
 movePlatMaxYSpeed = maxFallSpeed; // How fast can the player follow a downwards moving platform
+
+// 
+crushTimer = 0;
+crushDeathTime = 60;

@@ -8,8 +8,8 @@
   "name":"obj_semisolid",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objets",
-    "path":"folders/Objets.yy",
+    "name":"Collisions",
+    "path":"folders/Objets/Collisions.yy",
   },
   "parentObjectId":null,
   "persistent":false,

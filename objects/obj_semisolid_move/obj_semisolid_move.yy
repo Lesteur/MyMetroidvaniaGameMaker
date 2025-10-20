@@ -9,8 +9,8 @@
   "name":"obj_semisolid_move",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objets",
-    "path":"folders/Objets.yy",
+    "name":"Collisions",
+    "path":"folders/Objets/Collisions.yy",
   },
   "parentObjectId":{
     "name":"obj_semisolid",

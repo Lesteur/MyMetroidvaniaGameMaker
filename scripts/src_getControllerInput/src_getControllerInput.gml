@@ -17,7 +17,9 @@ function getControllerInput()
 	runKey = keyboard_check(ord("X")) + gamepad_button_check(0, gp_face3);
     runKey = clamp(runKey, 0, 1);
 	
-	downKey = keyboard_check(vk_down) + gamepad_button_check_pressed(0, gp_padd)
+	downKey = keyboard_check(vk_down) + gamepad_button_check_pressed(0, gp_padd);
+	
+	ignoreSemiSolid = jumpKeyPressed && downKey;
 
     // Jump key buffering
     if jumpKeyPressed
