@@ -6,6 +6,17 @@ event_inherited();
 // Controller for player movement
 ControllerSetup();
 
+enum STATE
+{
+	IDLE,
+	WALK,
+	RUN,
+	JUMP,
+	FALL
+}
+
+state = STATE.IDLE;
+
 // Moving
 face = 1;
 moveDir = 0;
