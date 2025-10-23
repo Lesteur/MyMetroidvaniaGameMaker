@@ -38,6 +38,7 @@
   "name":"MyMetroidvaniaGameMaker",
   "resources":[
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"obj_physic_parent","path":"objects/obj_physic_parent/obj_physic_parent.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_semisolid_move","path":"objects/obj_semisolid_move/obj_semisolid_move.yy",},},
     {"id":{"name":"obj_semisolid","path":"objects/obj_semisolid/obj_semisolid.yy",},},
