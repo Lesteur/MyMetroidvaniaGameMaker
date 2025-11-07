@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"src_HandleYGravity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"src_HandleYGravity",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
