@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"MyMetroidvaniaGameMaker",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -52,7 +52,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"MyMetroidvaniaGameMaker",
   "resources":[
@@ -61,7 +61,6 @@
     {"id":{"name":"obj_init","path":"objects/obj_init/obj_init.yy",},},
     {"id":{"name":"obj_physic_parent","path":"objects/obj_physic_parent/obj_physic_parent.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"obj_samus","path":"objects/obj_samus/obj_samus.yy",},},
     {"id":{"name":"obj_semisolid_move","path":"objects/obj_semisolid_move/obj_semisolid_move.yy",},},
     {"id":{"name":"obj_semisolid","path":"objects/obj_semisolid/obj_semisolid.yy",},},
     {"id":{"name":"obj_slope_l","path":"objects/obj_slope_l/obj_slope_l.yy",},},
