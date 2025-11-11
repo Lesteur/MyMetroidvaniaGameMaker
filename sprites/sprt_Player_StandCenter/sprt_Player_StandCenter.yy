@@ -27,7 +27,7 @@
   "origin":9,
   "parent":{
     "name":"StandCrouch",
-    "path":"folders/Sprites/Player/Suit1/StandCrouch.yy",
+    "path":"folders/Sprites/Player/Samus/Suit1/StandCrouch.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

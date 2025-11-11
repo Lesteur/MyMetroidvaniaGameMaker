@@ -34,7 +34,7 @@
   "origin":9,
   "parent":{
     "name":"Grip",
-    "path":"folders/Sprites/Player/Suit1/Grip.yy",
+    "path":"folders/Sprites/Player/Samus/Suit1/Grip.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -78,15 +78,33 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"35ebcc60-a029-43a1-b3cf-1d934ede072b","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"259fe446-9a72-417f-a061-5a7ae5224cab","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"64f32b99-c1cc-449f-b380-277a4462d205","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a0ebf412-bd09-4ac5-986b-b06d029af926","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a7f53734-ced1-4e26-b164-0c2a833cbddc","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"36030750-5115-4b80-ac2b-bb9185b3d108","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf642b65-a6a8-431d-8262-56e794f0cf3b","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cb7a3720-964f-4538-a981-6639ddf3c9d6","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"33c143b4-e6ee-4df1-a19a-33a2a94a496e","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"bff439ed-70c0-44cd-a7c4-4d2fc43cc723","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"fc998fb1-5ba1-4eaf-9e84-37d8efea0fac","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f647ac9c-9769-4efe-a4b4-6eb441cf8764","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"bfc2119b-4535-4bc4-9f24-758e3e007fa8","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"22322f73-e056-4dad-99ed-bd94efdce19b","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d3803917-ebef-451a-99f8-0317e9fd2f78","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cc2e30fe-054e-4d01-a761-afdac1ad19f1","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8875a2c4-38d3-4852-bddf-c38c654f640e","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6837ed0a-5a49-4f67-88e1-9fbfe6b87542","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"35ebcc60-a029-43a1-b3cf-1d934ede072b","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"259fe446-9a72-417f-a061-5a7ae5224cab","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"64f32b99-c1cc-449f-b380-277a4462d205","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a0ebf412-bd09-4ac5-986b-b06d029af926","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a7f53734-ced1-4e26-b164-0c2a833cbddc","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"36030750-5115-4b80-ac2b-bb9185b3d108","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf642b65-a6a8-431d-8262-56e794f0cf3b","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cb7a3720-964f-4538-a981-6639ddf3c9d6","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"33c143b4-e6ee-4df1-a19a-33a2a94a496e","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bff439ed-70c0-44cd-a7c4-4d2fc43cc723","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fc998fb1-5ba1-4eaf-9e84-37d8efea0fac","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f647ac9c-9769-4efe-a4b4-6eb441cf8764","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bfc2119b-4535-4bc4-9f24-758e3e007fa8","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"22322f73-e056-4dad-99ed-bd94efdce19b","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d3803917-ebef-451a-99f8-0317e9fd2f78","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cc2e30fe-054e-4d01-a761-afdac1ad19f1","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8875a2c4-38d3-4852-bddf-c38c654f640e","path":"sprites/sprt_Player_GripAimAwayLeft/sprt_Player_GripAimAwayLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6837ed0a-5a49-4f67-88e1-9fbfe6b87542","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

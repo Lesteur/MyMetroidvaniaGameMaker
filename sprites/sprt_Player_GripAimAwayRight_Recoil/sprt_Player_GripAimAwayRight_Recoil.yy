@@ -30,7 +30,7 @@
   "origin":9,
   "parent":{
     "name":"Grip",
-    "path":"folders/Sprites/Player/Suit1/Grip.yy",
+    "path":"folders/Sprites/Player/Samus/Suit1/Grip.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -74,11 +74,21 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fdfd7e8-7046-400e-889a-8e706210b0ed","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0761ccd6-cf53-4322-9540-1d8448094e21","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d60170da-42ab-4c76-9bd2-2a6d317f519f","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b2a1ed9f-1185-47f2-8700-fb4b078447dc","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e0eecb5d-adec-42ec-afd8-b078317f7e67","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"2c677e32-825f-4895-9047-0c0e577a3c7a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"7492c291-fc1c-4226-8958-5a269cdfad0a","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0f9871e9-e110-4af8-b756-e98055f1788e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b411c569-d409-471f-a04e-2e554150e279","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"dec5464e-144e-4562-8b52-6ade5d4c288b","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fdfd7e8-7046-400e-889a-8e706210b0ed","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0761ccd6-cf53-4322-9540-1d8448094e21","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d60170da-42ab-4c76-9bd2-2a6d317f519f","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b2a1ed9f-1185-47f2-8700-fb4b078447dc","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e0eecb5d-adec-42ec-afd8-b078317f7e67","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2c677e32-825f-4895-9047-0c0e577a3c7a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7492c291-fc1c-4226-8958-5a269cdfad0a","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0f9871e9-e110-4af8-b756-e98055f1788e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b411c569-d409-471f-a04e-2e554150e279","path":"sprites/sprt_Player_GripAimAwayRight_Recoil/sprt_Player_GripAimAwayRight_Recoil.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"dec5464e-144e-4562-8b52-6ade5d4c288b","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

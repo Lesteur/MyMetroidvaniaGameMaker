@@ -30,7 +30,7 @@
   "origin":9,
   "parent":{
     "name":"WalkRun",
-    "path":"folders/Sprites/Player/Suit1/WalkRun.yy",
+    "path":"folders/Sprites/Player/Samus/Suit1/WalkRun.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -74,11 +74,21 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c6598899-f800-424e-9f7e-c7d821b717c8","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1df5bae2-b1f0-4e1e-9e28-f88545dd4578","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"daadd371-fd6c-47ae-b23c-2867898e8e01","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0c80322c-9265-409f-ab97-0ba53bd4abaa","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"6de00814-7de0-4b1d-acce-12a381323f6b","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0128aad7-9d37-490c-89cf-31e11267af9d","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"fac87a0b-d5a3-4050-b18f-b93087891c9f","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"399b6f25-c61d-4ceb-818e-0614005fdda2","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c81e6576-4903-4985-a639-53c17e1e02a1","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0f4cd449-b4b7-4a31-ae63-3b6bfc382b3c","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c6598899-f800-424e-9f7e-c7d821b717c8","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1df5bae2-b1f0-4e1e-9e28-f88545dd4578","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"daadd371-fd6c-47ae-b23c-2867898e8e01","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0c80322c-9265-409f-ab97-0ba53bd4abaa","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6de00814-7de0-4b1d-acce-12a381323f6b","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0128aad7-9d37-490c-89cf-31e11267af9d","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fac87a0b-d5a3-4050-b18f-b93087891c9f","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"399b6f25-c61d-4ceb-818e-0614005fdda2","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c81e6576-4903-4985-a639-53c17e1e02a1","path":"sprites/sprt_Player_BrakeAimUpVLeft/sprt_Player_BrakeAimUpVLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0f4cd449-b4b7-4a31-ae63-3b6bfc382b3c","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
